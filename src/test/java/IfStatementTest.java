@@ -28,6 +28,7 @@ public class IfStatementTest {
     @Test
     public void ifStatementTest2(){
         boolean bool = false;
+
         int x = 0;
         int y = 1;
         int expected = 1;
